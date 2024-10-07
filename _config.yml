@@ -20,7 +20,7 @@ title                    : "MyTitle"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "MyName."
-description              : "MyDescription"
+description              : "https://Leejaemin1.github.io"
 url                      : "https://myurl.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "mygithubid/mygithubid.github.io"
